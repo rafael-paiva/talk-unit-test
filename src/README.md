@@ -8,7 +8,7 @@ You should just edit the source file at src/README.md - the one which stars with
 
 ## @@title
 
-<img src="img/cover.jpg" class="logo" />
+<img src="img/rock-band2.png" class="logo rockBandLogo" />
 
 @@author @ [Avenue Code](http://www.avenuecode.com)
 
@@ -20,17 +20,14 @@ You should just edit the source file at src/README.md - the one which stars with
 
 ## Agenda
 
- - The template
-  - Installing
-  - Working
-  - Deploying
- - Your talk
-  - Organization
-  - Content requirements
-  - Communication requirements
-  - The DONT's
-  - Tips
-  - If you are recording
+ - Unit Test
+  - What is it?
+  - Why is it important?
+  - When should we do it?
+ - Be a rock star!
+  - Be different
+  - Make the difference
+  - Be recognized
 
 ----
 

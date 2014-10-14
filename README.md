@@ -2,35 +2,32 @@
 
 WARNING!! DON'T EDIT THE FILE README.md on the root of the project, that one is a GENERATED FILE!
 
-You should just edit the source file at src/README.md - the one which stars with ## Talk template
+You should just edit the source file at src/README.md - the one which stars with ## Unit Test Rock Band
 
 -->
 
-## Talk template
+## Unit Test Rock Band
 
-<img src="img/cover.jpg" class="logo" />
+<img src="img/rock-band2.png" class="logo rockBandLogo" />
 
-Tiago Garcia @ [Avenue Code](http://www.avenuecode.com)
+Rafael Paiva @ [Avenue Code](http://www.avenuecode.com)
 
-*tgarcia@avenuecode.com*
+*rafaelpaivabh@gmail.com*
 
-Feb 11th, 2014
+Oct 16th, 2014
 
 ---
 
 ## Agenda
 
- - The template
-  - Installing
-  - Working
-  - Deploying
- - Your talk
-  - Organization
-  - Content requirements
-  - Communication requirements
-  - The DONT's
-  - Tips
-  - If you are recording
+ - Unit Test
+  - What is it?
+  - Why is it important?
+  - When should we do it?
+ - Be a rock star!
+  - Be different
+  - Make the difference
+  - Be recognized
 
 ----
 
