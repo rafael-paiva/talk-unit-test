@@ -20,68 +20,80 @@ You should just edit the source file at src/README.md - the one which stars with
 
 ## Agenda
 
- - Unit Test
+- Unit Test
   - What is it?
-  - Why is it important?
-  - When should we do it?
- - Be a rock star!
-  - Be different
-  - Make the difference
-  - Be recognized
+  - Is it worth it?
+  - Benefits
+- My Rock Band
+  - Karma
+  - Mocha
+  - Chai
+  - Chai jQuery
+  - Istanbul
+
 
 ----
 
 ## Agenda
 
- - Contributing
- - Learn more
- - Conclusion
- - Assignment
+- Learn more
+- Conclusion
+- Assignment
 
 ---
 
 ## Prerequisites
 
-- Markdown
-- Reveal.js
-- Grunt
+- Javascript
+- jQuery
+- Grunt?
 
 ---
 
-## The template
+## Unit Test
 
-1. The Avenue Code talk template is a responsive, web-based talk template.
-1. This template is based on [Reveal.JS](http://lab.hakim.se/reveal-js).
-1. All you need to do is to write your content in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-1. There are some [Grunt](http://gruntjs.com) jobs to automatize the build process.
-1. It has *automatic code highlighting*, guessing the programming language you used.
-1. Once it is described in *README.md*, the talk contents will also be available as the repository description which is a common format for tutorials.
-
-----
-
-## Setting up your repo
-
-1. Sign in on GitHub
-1. Fork the repository <https://github.com/acbr/talk-template>
-1. Rename it to match your talk name (ex: *talk-design-patterns*)
-1. Clone this repository
-1. Navigate to its folder on the terminal
+- What is it?
+  - At a high-level, unit testing refers to the practice of testing certain functions and areas (or units) of our code. This gives us the ability to verify that our functions work as expected.
+- Is it worth it?
+  - Unit testing is a lot like going to the gym:
+    - You know it's good for you.
+    - All the arguments make sense.
+    - It takes time and effort.
+    - You may not see the results immediately.
+    - But it can definitely save lives!
 
 ----
 
-## Building and running
+## Unit Test
 
-1. Install [Node.js](http://nodejs.org/)
-1. Install [Grunt](http://gruntjs.com/getting-started#installing-the-cli)
-1. On the repo folder, install the npm dependencies
-```sh
-$ npm install
-```
-1. Build it, serve it and monitor source files for changes
-```sh
-$ grunt
-```
-1. Open <http://localhost:8000> to view your talk
+- Benefits
+  1. Finds problems early
+  1. Facilitates change
+  1. Simplifies integration
+  1. Saves development time
+  1. Documentation
+  1. ...
+
+
+---
+
+## My Rock Band
+
+----
+
+## Why a Rock Band?
+
+- Like a Rock Band each part has its own responsibilities.
+- The Unit Test Rock Band is composed by the right tool for each need to make the unit testing world perfect and easy :)
+
+----
+
+## Karma
+
+- A simple tool that allows you to execute JavaScript code in multiple real browsers.
+- It launches one (or more) web browser in order to run tests and evaluate its results via command line or another specified output. It also watches for file-changes in order to re-trigger tests when any change is caught. It can also be set to generate coverage reports using proper tools.
+- Karma is not a testing framework, nor an assertion library. Karma just launches a HTTP server, and generates the test runner HTML file from your testing framework.
+
 
 ----
 
